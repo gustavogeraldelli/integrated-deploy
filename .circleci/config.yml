@@ -14,4 +14,4 @@ jobs:
 workflows:
   hello-world:
     jobs:
-      greetings
+      - greetings
