@@ -9,7 +9,7 @@ jobs:
     steps:
       - checkout
       - run:
-        command: echo "Bem vindo"
+          command: echo "Bem vindo"
 
 workflows:
   hello-world:
